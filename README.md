@@ -8,4 +8,4 @@ the admin username is admin@gmail.com password is 12345
 #employee 
 once logged in to admin you can create an employee account from there or you could one of the precreated accounts eg prince@gmail.com password being 1234 for each employee
 
-this peoject is still a work in progress so feel free to add features of your own
+this project is still a work in progress so feel free to add features of your own
